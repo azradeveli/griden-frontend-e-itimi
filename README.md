@@ -1,2 +1,2 @@
-# griden-frontend-e-itimi
+# gridea-frontend-e-itimi
 Gridea Frontend Eğitimindeki Ödev ve Ders Notlarım
