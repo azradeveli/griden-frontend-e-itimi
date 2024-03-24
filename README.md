@@ -1,3 +1,3 @@
-# gridea-frontend-e-itimi
-Gridea Frontend Eğitimindeki Ödev ve Ders Notlarım
+# gridea-frontend-course
+Gridea Frontend Course Notes and Assignments
   
