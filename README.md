@@ -1,3 +1,3 @@
-# gridea-frontend-course
-Gridea Frontend Course Notes and Assignments
+# gridea-frontend
+Gridea Frontend Homeworks and Notes
   
